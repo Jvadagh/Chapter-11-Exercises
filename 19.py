@@ -196,7 +196,7 @@ b7 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue"
             command=lambda: b_click(b7))
 b8 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b8))
-b9 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
+b9 = Button(root, text=" ", font=("Helvetica", 36), height=3, width=6, bg="blue",
             command=lambda: b_click(b9))
 
 # Grid our buttoms to screen
