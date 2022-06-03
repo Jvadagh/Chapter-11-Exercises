@@ -178,25 +178,25 @@ def b_click(b):
 
 
 # Build our buttons
-b1 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b1 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b1))
-b2 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b2 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b2))
-b3 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b3 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b3))
 
-b4 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b4 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b4))
-b5 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b5 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b5))
-b6 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b6 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b6))
 
-b7 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b7 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b7))
-b8 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b8 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b8))
-b9 = Button(root, text=" ", font=("Helvetica", 20), height=3, width=6, bg="blue",
+b9 = Button(root, text=" ", font=("Helvetica", 35), height=3, width=6, bg="blue",
             command=lambda: b_click(b9))
 
 # Grid our buttoms to screen
